@@ -1,6 +1,10 @@
 # Road-Accident-Analysis-using-Microsoft-Power-BI
 
-The requirement for Road Accident Analysis Project:-
+The Road-Accident-Analysis-using-Microsoft-Power-BI dashboard looks like. - 
+
+![DashboardPreview](https://github.com/Jyotirmay-Chowdhury/Road-Accident-Analysis-using-Microsoft-Power-BI/blob/main/Road-Accident-Analysis.jpg)
+
+# The requirement for Road Accident Analysis Project:-
 
 # Clients want to Create a Road Accidents Dashboard for years 2021 and 2022 so that they can have insight into the below requirements.
 
